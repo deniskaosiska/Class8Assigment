@@ -8,17 +8,17 @@ public class AllExercises {
     public static void main(String[] args) throws NoSuchMethodException, NoSuchFieldException, IllegalAccessException, InvocationTargetException {
         Integer[] age = {31, 32, 33};
         String[] names = {"denis", "rotem", "rika"};
-//        exercise1a();
-//        exercise1b();
-//        exercise2();
-//        exercise3();
-//        exercise5(age);
-//        exercise5(names);
+        exercise1a();
+        exercise1b();
+        exercise2();
+        exercise3();
+        exercise5(age);
+        exercise5(names);
         // 6. No created objected of class Math, in Main method we call only for one(same) method and in method calculate, the code don;t know how to implement variable d and the same way I don;t know a logic to get x and do not ding with x anything.
-//        exercise7();
-//        exercise8();
+        exercise7();
+        exercise8();
         exercise9();
-//        exercise10();
+        exercise10();
     }
 
     public static void exercise1a() {
